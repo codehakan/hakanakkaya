@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hakan AKKAYA</h1>
-<h3 align="center">I am a passionate frontend developer.</h3>
+<h3 align="center">I continue to develop my experience in coding by producing new projects.</h3>
 
 - 📝 I regularly write articles on [https://hakanakkaya.net](https://hakanakkaya.net)
 
